@@ -1,6 +1,6 @@
 import chu from "../assets/chu.png";
-import ho from "../assets/ho.png";
-import horn from "../assets/.png";
+import ho from "../assets/ho.jpg";
+import horn from "../assets/horn.jpg";
 import HornedBeast from "./HornedBeast";
 
 export default function Gallery() {
