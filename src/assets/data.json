@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "1",
+    "title": "Smaug",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/Conversation_with_Smaug.png",
+    "description": "Benedril Cumberbunds favourite role"
+  },
+  {
+    "_id": "2",
+    "title": "Cow",
+    "imageUrl": "https://www.campusgifts.co.uk/media/catalog/product/cache/623a6c74e30aa11506d045198d97fecc/a/d/ad3hc-amuseabean-highland-cow-4-1000px.jpg",
+    "description": "This highland cow is called Graham"
+  },
+  {
+    "_id": "3",
+    "title": "Rhino",
+    "imageUrl": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fimages.photowall.com%2Fproducts%2F53458%2Frhino.jpg%3Fh%3D699%26q%3D85&sp=1698247599Tc98e2f4cd79cbef61bdf4283d27fd5e6b5c354ad692cfbbf88f0bb0ae4972156",
+    "description": "This Rhino is Amazing "
+  }
+]

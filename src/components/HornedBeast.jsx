@@ -11,8 +11,8 @@ export default function HornedBeast(props) {
   return (
     <>
       <div>
-        <h2>{props.name} is thge child</h2>
-        <img src={props.src} onClick={handleLikes}></img>
+        <h2>{props.title} is thge child</h2>
+        <img src={props.imageUrl} onClick={handleLikes}></img>
         <span>❤️{likes}</span>
       </div>
     </>

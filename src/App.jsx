@@ -1,3 +1,4 @@
+import data from "./assets/data.json";
 import "./App.css";
 import Header from "./components/Header";
 import Gallery from "./components/Gallery";
@@ -7,7 +8,7 @@ function App() {
   return (
     <>
       <Header />
-      <Gallery />
+      <Gallery data={data} />
       <Footer />
     </>
   );
