@@ -1,8 +1,6 @@
 import { useState } from "react";
 
 export default function HornedBeast(props) {
-  console.log(useState(0));
-
   const [likes, setLikes] = useState(0);
 
   function handleLikes() {
